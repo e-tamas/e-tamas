@@ -57,8 +57,7 @@ Feel free to explore my repositories, connect with me on LinkedIn, or reach out 
 ---
 
 ### Get In Touch
-- **💼 LinkedIn**: <!--[LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)-->
-- **🐦 Twitter**: <!--[@yourtwitterhandle](https://twitter.com/yourtwitterhandle)-->
+- **💼 LinkedIn**: [LinkedIn](https://www.linkedin.com/in/e-tamas/)
 
 
 
