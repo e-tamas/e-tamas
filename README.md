@@ -51,12 +51,6 @@ Here are some ideas to get you started:
 
 ---
 
-### Courses
-- **CS50x** (Worth-it course to master analythical thinking.)
-- **Scrimba's TypeScript Course** (Just to get deeper into using types.)
-
----
-
 ### Get In Touch
 - **📬 Email**: <!--[tamaservin00@gmail.com](mailto:tamaservin00@gmail.com)-->
 - **💼 LinkedIn**: <!--[LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)-->
