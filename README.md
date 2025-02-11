@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Ervin Tamás! 👋
+# Hello, I'm Ervin! 👋
 
 🇭🇺 Hungarian Full Stack Developer
 
