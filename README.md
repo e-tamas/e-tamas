@@ -29,30 +29,33 @@ Feel free to explore my repositories, connect with me on LinkedIn, or reach out 
 ### Languages & Frameworks
 - **Languages**:
   
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-060606?logo=python&logoColor=3776AB)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-060606?logo=typescript&logoColor=007ACC)
+  ![C](https://img.shields.io/badge/-C-060606?logo=c&logoColor=A8B9CC)
 
 - **Frameworks**:
   
-  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-060606?logo=flask&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-060606?logo=node.js&logoColor=339933)
+  ![React](https://img.shields.io/badge/-React-060606?logo=react&logoColor=60dafa)
+  ![Next.js](https://img.shields.io/badge/-Next.js-060606?logo=next.js&logoColor=white)
+  ![Vite](https://img.shields.io/badge/-Vite-060606?logo=vite&logoColor=646CFF)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-060606?logo=tailwind-css&logoColor=06B6D4)
 
 - **SQL Databases**:
   
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-060606?logo=postgresql&logoColor=336791)
+  ![SQLite](https://img.shields.io/badge/-SQLite-060606?logo=sqlite&logoColor=003B57)
+  ![MySQL](https://img.shields.io/badge/-MySQL-060606?logo=mysql&logoColor=4479A1)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-060606?logo=mongodb&logoColor=47A248)
 
 - **Other Tools**:
 
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-060606?logo=git&logoColor=F05032)
+  ![Docker](https://img.shields.io/badge/-Docker-060606?logo=docker&logoColor=2496ED)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-060606?logo=ubuntu&logoColor=E95420)
+
 
 ---
 
