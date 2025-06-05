@@ -12,17 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome on my Gihub profile! 👋
 
 🇭🇺 Hungarian Full Stack Developer
 
 ---
 
-### About Me
+Full Stack Developer from Hungary, with a keen interest in learning and exploring new technologies.
 
-Hello, I'm Ervin, a Full Stack Developer from Hungary, with a keen interest in learning and exploring new technologies.
-
-I’ve had the pleasure of working on diverse projects that have honed my skills and expanded my horizons. I go for the challenge of tackling complex problems and finding innovative and efficient solutions. I've had the opportunity to work on a diverse range of projects, from building web applications to developing APIs. 
+I go for the challenge of tackling complex problems and finding innovative and efficient solutions. I've had the opportunity to work on a diverse range of projects, from building web applications to developing APIs. 
 
 Feel free to explore my repositories, connect with me on LinkedIn, or reach out if you’re interested in collaborating on an exciting project. Let’s create something amazing together!
 
