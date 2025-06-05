@@ -13,15 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🇭🇺 Hungarian Full Stack Developer
-
----
-
 Full Stack Developer from Hungary, with a keen interest in learning and exploring new technologies.
 
 I go for the challenge of tackling complex problems and finding innovative and efficient solutions. I've had the opportunity to work on a diverse range of projects, from building web applications to developing APIs. 
 
 Feel free to explore my repositories, connect with me on LinkedIn, or reach out if you’re interested in collaborating on an exciting project. Let’s create something amazing together!
+
+---
 
 ### Languages & Frameworks
 - **Languages**:
